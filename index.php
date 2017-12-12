@@ -95,7 +95,7 @@
 								<span class="name" > 
 									<div class="col-md-12">
 										<img class="img-responsive" src="img/logo-01.png" alt="">
-										<p style= "font-size: 140%; text-align: center"> Inovando seus sonhos</p> <br>
+								<!--		<p style= "font-size: 140%; text-align: center"> Inovando seus sonhos</p>  --><br>
 										<a href="?pag=index#contact" class="btn btn-lg btn-outline">
 											<i class="fa fa-users" aria-hidden="true"></i> Faça seu contato
 										</a>
