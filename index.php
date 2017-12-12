@@ -11,7 +11,7 @@
     <!-- PARAGRAFO -->
 
 
-    <title>IFTECH Junior - Projetos e Inovações</title>
+    <title>IFJr Soluções - Projetos e Consultoria</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -62,14 +62,15 @@
                 <li class="page-scroll">
                     <a href="?pag=quem-somos#conteudo">Sobre nós</a>
                 </li>
-
+<!--
                 <li class="page-scroll">
                     <a href="?pag=index#portfolio">Projetos</a>
                 </li>
-
+-->
                 <li class="page-scroll">
                     <a href="?pag=index#contact">Fale Conosco</a>
                 </li>
+
             </ul>
         </div>
         <!-- /.navbar-collapse -->
@@ -149,57 +150,35 @@ else{
             </div>
         </div>
     </section>
+
     <!-- Portfolio Grid Section -->
-    <section id="portfolio">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2>PROJETOS ATUAIS</h2>      <br><br>
-                </div>
+    <!--
+<section id="portfolio">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2>PROJETOS ATUAIS</h2>      <br><br>
             </div>
-            <div class="row">
-                <div class="col-sm-12 portfolio-item">
-                    <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content">
-                                <i class="fa fa-search-plus fa-3x"></i><br>
-                                Saiba mais<br>
-                            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-12 portfolio-item">
+                <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
+                    <div class="caption">
+                        <div class="caption-content">
+                            <i class="fa fa-search-plus fa-3x"></i><br>
+                            Saiba mais<br>
                         </div>
-                        <img src="img/aumento.png" style="padding-top:20px; padding-bottom:20px" class="img-responsive img-circle" height="150" width="600">
-                        <h3 style="color: rgb(0,0,0)" style="text-align:center">Como alavancar vendas utilizando o Facebook</h4></p>
-                    </a>
-                </div>
+                    </div>
+                    <img src="img/aumento.png" style="padding-top:20px; padding-bottom:20px" class="img-responsive img-circle" height="150" width="600">
+                    <h3 style="color: rgb(0,0,0)" style="text-align:center">Como alavancar vendas utilizando o Facebook</h4></p>
+                </a>
+            </div>
 
 
-            </div>
         </div>
-    </section>
-    <!-- About Section -->
-    <section class="success" id="about">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2>Nossa Equipe</h2>
-                    <br><br>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-4 col-lg-offset-2">
-                    <p style = "text-align:justify;  text-indent: 2em">Nós somos a Empresa Júnior de Consultoria e Desenvolvimento de Projetos. <br>
-                        Fazemos parte do Intituto Federal de Ciência e Técnologia do Estado de São Paulo (IFSP), onde os alunos são os responsáveis por manter a empresa, tendo a preocupação em inovar, realizar o sonho e atender as necessidades de nossos clientes.</p>
-                </div>
-                <div class="col-lg-4">
-                    <p style = "text-align:justify;  text-indent: 2em"> Visamos pôr em prática o conteúdo aprendido dentro e fora de sala de aula, propondo assim o desenvolvimento e capacitação em gestão para os membros e o desenvolvimento de projetos com qualidade garantida e as melhores tecnologias para nossos clientes.</p>
-                </div>
-                <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <a href="?pag=quem-somos" class="btn btn-lg btn-outline">
-                        <i class="fa fa-users"></i> A Equipe
-                    </a>
-                </div>
-            </div>
-        </div>
-    </section>
+    </div>
+</section>
+-->
 
 
     <!-- Contact Section -->
@@ -255,6 +234,32 @@ else{
             </div>
         </div>
     </section>
+    <!-- About Section -->
+    <section class="success" id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Nossa Equipe</h2>
+                    <br><br>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-4 col-lg-offset-2">
+                    <p style = "text-align:justify;  text-indent: 2em">Nós somos a Empresa Júnior de Consultoria e Desenvolvimento de Projetos. <br>
+                        Fazemos parte do Intituto Federal de Ciência e Técnologia do Estado de São Paulo (IFSP), onde os alunos são os responsáveis por manter a empresa, tendo a preocupação em inovar, realizar o sonho e atender as necessidades de nossos clientes.</p>
+                </div>
+                <div class="col-lg-4">
+                    <p style = "text-align:justify;  text-indent: 2em"> Visamos pôr em prática o conteúdo aprendido dentro e fora de sala de aula, propondo assim o desenvolvimento e capacitação em gestão para os membros e o desenvolvimento de projetos com qualidade garantida e as melhores tecnologias para nossos clientes.</p>
+                </div>
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <a href="?pag=quem-somos" class="btn btn-lg btn-outline">
+                        <i class="fa fa-users"></i> A Equipe
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
 <? } ?>
 <!-- Footer -->
 <footer class="text-center">
@@ -292,7 +297,7 @@ else{
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    Copyright &copy; IFTech Junior 2018
+                    Copyright &copy; IFJunior Consultoria 2018
                 </div>
             </div>
         </div>
