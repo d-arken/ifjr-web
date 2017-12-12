@@ -45,7 +45,7 @@
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                 <span class="sr-only">Navegação</span> Menu <i class="fa fa-bars"></i>
             </button>
-            <a class="navbar-brand" href="?pag=index">IFTECH Junior</a>
+            <a class="navbar-brand" href="?pag=index">IFJR</a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
@@ -94,7 +94,7 @@
             <div class="intro-text">
 								<span class="name" > 
 									<div class="col-md-12">
-										<img class="img-responsive" src="img/if_gabi.png" alt="">
+										<img class="img-responsive" src="img/logo-01.png" alt="">
 										<p style= "font-size: 140%; text-align: center"> Inovando seus sonhos</p> <br>
 										<a href="?pag=index#contact" class="btn btn-lg btn-outline">
 											<i class="fa fa-users" aria-hidden="true"></i> Faça seu contato
