@@ -1,0 +1,65 @@
+﻿Changelog 
+
+1. Layout baixado da Internet.
+Explicar estrutura de arquivos de layout.
+______________________________
+
+
+
+1.1 Informações {
+Sobre nós,
+Missão,
+Valores,
+Visão,
+Breve portifólio TI,
+Breve portifólio Eng
+}
+
+1.2 {
+1 Semana: Realizar todas alterações com as informações em mãos,
+2 Semana: Compra de dominío e subir para a internet;
+} 
+
+2. Estrutura {
+Home
+
+Header{
+Baseado no logo e alguma mensagem legal.
+}
+
+Portifólio{
+Precisa ser elaborado pelo mkt.
+}
+
+Contato{
+Envia um e-mail para nós com a mensagem,
+e um de volta com um agradecimento
+}
+
+hot Quem somos {
+Breve descrição,
+algumas imagens.
+
+}
+
+página Quem Somos{
+Descrição da Empresa.
+Visão, Missão Valores,
+Equipe.
+}
+
+futura Serviços e Clientes{
+Projetos já executados,
+Clientes
+}
+}
+
+3. Alterações{
+Logo Header,
+Tradução das mensagens,
+Alteração de Informações de localização,
+Portifólio,
+Script de contato,
+Linkar Redes Socais,
+Criação de e-mail
+}
