@@ -26,6 +26,7 @@
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
 
+
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -197,28 +198,28 @@ else{
                         <div class="row control-group">
                             <div class="form-group col-xs-12 floating-label-form-group controls">
                                 <label>Nome</label>
-                                <input type="text" class="form-control" placeholder="Seu nome" id="name" required data-validation-required-message="Please enter your name.">
+                                <input type="text" class="form-control" placeholder="Seu nome" id="name" required data-validation-required-message="Por favor, digite seu nome.">
                                 <p class="help-block text-danger"></p>
                             </div>
                         </div>
                         <div class="row control-group">
                             <div class="form-group col-xs-12 floating-label-form-group controls">
                                 <label>E-mail</label>
-                                <input type="email" class="form-control" placeholder="Endereço de e-mail" id="email" required data-validation-required-message="Please enter your email address.">
+                                <input type="email" class="form-control" placeholder="Endereço de e-mail" id="email" required data-validation-required-message="Por favor, digite seu email.">
                                 <p class="help-block text-danger"></p>
                             </div>
                         </div>
                         <div class="row control-group">
                             <div class="form-group col-xs-12 floating-label-form-group controls">
                                 <label>Contato</label>
-                                <input type="tel" class="form-control" placeholder="Telefone ou Celular" id="phone" required data-validation-required-message="Please enter your phone number.">
+                                <input type="tel" class="form-control" placeholder="Telefone ou Celular" id="phone" required data-validation-required-message="Por favor, digite seu número de telefone ou celular.">
                                 <p class="help-block text-danger"></p>
                             </div>
                         </div>
                         <div class="row control-group">
                             <div class="form-group col-xs-12 floating-label-form-group controls">
                                 <label>Mensagem para nós?</label>
-                                <textarea rows="5" class="form-control" placeholder="Digite aqui a sua mensagem..." id="message" required data-validation-required-message="Please enter a message."></textarea>
+                                <textarea rows="5" class="form-control" placeholder="Digite aqui a sua mensagem..." id="message" required data-validation-required-message="Por favor, digite sua mensagem."></textarea>
                                 <p class="help-block text-danger"></p>
                             </div>
                         </div>
@@ -352,7 +353,7 @@ else{
 
 
 <!-- jQuery -->
-<script src="vendor/jquery/jquery.min.js"></script>
+<script src="vendor/jquery/jquery-3.1.1.min.js"></script>
 
 <!-- Bootstrap Core JavaScript -->
 <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
